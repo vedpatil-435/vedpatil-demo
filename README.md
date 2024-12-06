@@ -1,2 +1,3 @@
 # vedpatil-demo
-first git repo 
+This is my first git repo
+Author-**Ved Patil**
